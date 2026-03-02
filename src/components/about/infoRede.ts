@@ -8,12 +8,12 @@ export interface Info {
 export const infoRede: Info[] = [
     {
         id: 1,
-        name: 'github',
+        name: 'GitHub',
         url: 'https://github.com/gabrielsilveiralim/',
     },
     {
         id: 2,
-        name: 'linkedln',
+        name: 'Linkedln',
         url: 'https://www.linkedin.com/in/gabriellima18?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app',
     }
 ]

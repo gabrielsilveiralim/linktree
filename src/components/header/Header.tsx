@@ -5,8 +5,9 @@ export default function Header() {
     return(
         <>
 
-        <div className="flex">
-           <Image src={Eu} alt="" className="flex w-3xs max-h-full rounded-full mt-5 mx-auto" /> 
+        <div className="flex flex-col">
+           <Image src={Eu} alt="" className="flex w-52 h-52 md:w-3xs md:h-64 rounded-full mt-24 mx-auto " /> 
+           <h1 className="text-xl font-bold mx-auto mt-3">Gabriel Lima</h1>
         </div>
     
         </>
